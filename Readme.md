@@ -25,14 +25,6 @@ pip install -r requeriments.txt
 
 # Features adicionais
 
-Instalando o componente rasa x:
-
-```
-pip3 install rasa x
-```
-
-A ferramenta rasa x permite uma iteração mais visual com o chatbot.
-
 #Treinamento
 Para treinar o chatbot, só entrar na pasta do campusito e digitar:
 
@@ -48,9 +40,3 @@ rasa shell
 ```
 
 É possível interagir com o chatbot dentro do próprio terminal.
-
-```
-rasa x
-```
-
-O rasa x, quando ativo, abre automaticamente uma página que abre uma janela hospedada no localhost, sendo possível a iteração gráfica com o chatbot.
